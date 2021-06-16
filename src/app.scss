@@ -1,0 +1,15 @@
+body{
+  margin: 0;
+}
+.content{
+  background: #292c33;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+  img{
+    max-width: 700px;
+  }
+}
